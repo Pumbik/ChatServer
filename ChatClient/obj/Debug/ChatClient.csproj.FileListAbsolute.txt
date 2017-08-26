@@ -1,0 +1,5 @@
+D:\MyProj\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+D:\MyProj\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+D:\MyProj\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+D:\MyProj\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+D:\MyProj\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
